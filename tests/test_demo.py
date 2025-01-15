@@ -19,4 +19,4 @@ def test_divide():
         divide(1, 0)
 
 def test_sayHello():
-    assert sayHello('Subhajit') == 'Hello Subhajit'
+    assert sayHello('Subhajit') == 'Hello Subha'
